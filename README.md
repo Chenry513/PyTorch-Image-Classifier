@@ -22,6 +22,11 @@ By following these steps, you will set up the environment required for the proje
 
 ## Technologies Used
 
-TensorFlow, PyTorch, Python, Google Colab, Jupyter Notebook
+- **Python**: As the primary programming language.
+- **TensorFlow**: To build and train the Convolutional Neural Network (CNN).
+- **PyTorch**: For additional model training and fine-tuning.
+- **Google Colab**: To leverage cloud-based resources for training the model.
+- **Jupyter Notebook**: For organizing and running the code in an interactive environment.
+
 
 
