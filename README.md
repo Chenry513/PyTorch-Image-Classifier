@@ -20,6 +20,8 @@ To run this project, follow these steps:
 
 By following these steps, you will set up the environment required for the project and be able to run the image classification model on the CIFAR-100 dataset.
 
-**Technologies Used:** TensorFlow, PyTorch, Python, Google Colab, Jupyter Notebook
+#Technologies Used
+
+TensorFlow, PyTorch, Python, Google Colab, Jupyter Notebook
 
 
